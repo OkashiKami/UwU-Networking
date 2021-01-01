@@ -1,0 +1,11 @@
+C:\Users\Senpai\source\repos\UwU-Networking\Server\obj\Debug\UServer.Properties.Resources.resources
+C:\Users\Senpai\source\repos\UwU-Networking\Server\obj\Debug\UServer.csproj.GenerateResource.cache
+C:\Users\Senpai\source\repos\UwU-Networking\Server\obj\Debug\UServer.csproj.CoreCompileInputs.cache
+C:\Users\Senpai\source\repos\UwU-Networking\Server\bin\Debug\Resources\Scripts\Server.cs
+C:\Users\Senpai\source\repos\UwU-Networking\Server\bin\Debug\Resources\Scripts\ExitApplication.cs
+C:\Users\Senpai\source\repos\UwU-Networking\Server\bin\Debug\UServer.exe.config
+C:\Users\Senpai\source\repos\UwU-Networking\Server\bin\Debug\UServer.exe
+C:\Users\Senpai\source\repos\UwU-Networking\Server\bin\Debug\UServer.pdb
+C:\Users\Senpai\source\repos\UwU-Networking\Server\obj\Debug\UServer.exe
+C:\Users\Senpai\source\repos\UwU-Networking\Server\obj\Debug\UServer.pdb
+C:\Users\Senpai\source\repos\UwU-Networking\Server\obj\Debug\UServer.csprojAssemblyReference.cache
